@@ -1,0 +1,71 @@
+.sneaker
+{
+    color:#f3f0e6;
+    text-align: center;
+}
+.heading
+{
+    color:#151A22;
+    text-align: left;
+    font-size:40px;
+    background-color:#dbdbdb;
+    margin: 0;
+}
+img
+{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+}
+a
+{
+    text-align: center;
+}
+button:hover
+{
+    color:cornflowerblue;
+    transition: transform 0.3s ease;
+    transform: scale(1.2);
+}
+.list
+{
+    text-align: left;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:#151A22;
+}
+button
+{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.size-chart
+{
+    display: none;
+    margin-top: 20px;
+}
+
+table
+{
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: white;
+    color: #333;
+}
+th, td
+{
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+th
+{
+    background-color: #007BFF;
+    color: white;
+}
